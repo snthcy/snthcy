@@ -3,7 +3,7 @@ snthcy@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-Location: Not telling you that
+Location: United States
 Frameworks: React, Next.js
 Languages: JavaScript, TypeScript, Python
 Tools: Node.js, Discord.js, Prisma
