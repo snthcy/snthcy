@@ -10,3 +10,5 @@ right now i'm learning Nix and grandpa C. trying to get into low-level systems
 email: [hi@normie.cc](mailto:hi@normie.cc)\
 twitter: [@snthcy](https://twitter.com/snthcy)\
 github: [you have to be kidding me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fsnthcy" />
